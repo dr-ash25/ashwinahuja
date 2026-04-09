@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #e91e63;
+}
+
+.hers {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: white;
+}
+
+
+/* .nav-link:hover {
+    text-decoration: underline !important;
+}
+
+.navbar {}
+
+body {
+    background-color: rgb(20, 20, 20) !important;
+}
+
+.navbar-toggler-icon {
+    background-image: url("https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff") !important;
+    font-weight: bold;
+}
+
+.slider-content .icons {
+    color: white;
+    font-size: 50pt;
+}
+
+.social-networks a.fa {
+    text-decoration: none;
+    font-size: 35px;
+    border: 10px;
+    color: white;
+    padding: 10px;
+    border-radius: 50px !important;
+}
+
+.btn-outline-success {
+    border-color: #ffffff !important;
+    color: #ffffff !important;
+    background-color: transparent !important;
+    padding: 0;
+    border-radius: 25 !important;
+}
+
+
+/*btn-outline-successs {
+    color: white !important;
+    border-color: white !important;*/
+
+
+/* .btn-outline-success:hover {
+    color: rgb(0, 0, 0) !important;
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+    border-radius: 25 !important;
+}
+
+.social-networks a.fa:hover {
+    color: deepskyblue;
+}
+
+.navbar-inverse {
+    background: transparent !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-size: 40px !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+
+.navbar-brand:hover {
+    color: red !important;
+}
+
+.navbar ul li a {
+    color: white !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+
+.navbar ul li a:hover {
+    color: red !important;
+}
+
+.nav-item {
+    padding: 15px !important;
+}
+
+.slider {
+    width: 100%;
+    height: 700px;
+    background-image: url(..//images/detroit-background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.slider-overlay {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    position: relative;
+}
+
+.slider-content {
+    position: absolute;
+    top: 39%;
+    width: 100%;
+}
+
+.text {
+    display: inline;
+    font-size: 50px;
+    color: white !important;
+}
+
+.slider .text {
+    display: inline;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.cta-div {
+    margin-top: 30px;
+}
+
+.btn1 {
+    padding: 13px 18px;
+    background-color: transparent;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+    border: 2px solid white;
+    border-top-left-radius: 15px;
+    transition: all 0.5s ease-in;
+    margin-right: -6px;
+}
+
+.btn1:hover {
+    text-decoration: none;
+    color: white;
+    background-color: deepskyblue;
+    border-color: deepskyblue;
+}
+
+.btn2 {
+    padding: 13px 18px;
+    background-color: transparent;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+    border: 2px solid white;
+    border-bottom-right-radius: 15px;
+    transition: all 0.5s ease-in;
+    margin-right: 10px;
+}
+
+.btn2:hover {
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    border-color: orangered;
+} */
+
+*/
